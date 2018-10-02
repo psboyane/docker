@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "app.js",
-      "target": "docker/my-busybox/latest/app.py",
+      "target": "docker/my-busybox/latest/app.js",
       "props": "p1=v1;p2=v2"
     },
     {
