@@ -1,14 +1,20 @@
 {
   "files": [
     {
-      "pattern": "jenkins-examples/pipeline-examples/resources/ArtifactoryPipeline.zip",
-      "target": "docker-remote",
+      "pattern": "app.py",
+      "target": "docker/my-busybox/latest/app.py",
       "props": "p1=v1;p2=v2"
     },
     {
       "pattern": "Dockerfile",
       "target": "docker/my-busybox/latest/Dockerfile",
       "props":"p1=v1;p2=v2"
+    },
+    {
+      "pattern": "requirement.txt",
+      "target": "docker/my-busybox/latest/requirement.txt",
+      "props": "p1=v1;p2=v2"
     }
+
   ]
 }
