@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "pattern": "jenkins-examples/pipeline-examples/resources/ArtifactoryPipeline.zip",
+      "target": "docker-remote",
+      "props": "p1=v1;p2=v2"
+    },
+    {
+      "pattern": "jenkins-examples/pipeline-examples/resources/Dockerfile",
+      "target": "docker-dev"
+      "props":"p1=v1;p2=v2"
+    }
+  ]
+}
