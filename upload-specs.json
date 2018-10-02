@@ -11,8 +11,8 @@
       "props":"p1=v1;p2=v2"
     },
     {
-      "pattern": "requirement.txt",
-      "target": "docker/my-busybox/latest/requirement.txt",
+      "pattern": "requirements.txt",
+      "target": "docker/my-busybox/latest/requirements.txt",
       "props": "p1=v1;p2=v2"
     }
 
