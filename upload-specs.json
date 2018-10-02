@@ -7,7 +7,7 @@
     },
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/Dockerfile",
-      "target": "docker-dev"
+      "target": "docker-dev",
       "props":"p1=v1;p2=v2"
     }
   ]
