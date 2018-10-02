@@ -7,7 +7,7 @@
     },
     {
       "pattern": "Dockerfile",
-      "target": "docker-dev/my-busybox/Dockerfile",
+      "target": "docker/my-busybox/latest/Dockerfile",
       "props":"p1=v1;p2=v2"
     }
   ]
