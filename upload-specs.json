@@ -7,7 +7,7 @@
     },
     {
       "pattern": "Dockerfile",
-      "target": "docker-dev",
+      "target": "docker-dev/nodeapp",
       "props":"p1=v1;p2=v2"
     }
   ]
