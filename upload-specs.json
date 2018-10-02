@@ -7,7 +7,7 @@
     },
     {
       "pattern": "Dockerfile",
-      "target": "docker-dev/nodeapp/Dockerfile",
+      "target": "docker-dev/my-busybox/Dockerfile",
       "props":"p1=v1;p2=v2"
     }
   ]
