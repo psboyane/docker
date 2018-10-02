@@ -6,7 +6,7 @@
       "props": "p1=v1;p2=v2"
     },
     {
-      "pattern": "jenkins-examples/pipeline-examples/resources/Dockerfile",
+      "pattern": "Dockerfile",
       "target": "docker-dev",
       "props":"p1=v1;p2=v2"
     }
